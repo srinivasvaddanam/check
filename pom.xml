@@ -62,9 +62,9 @@
 						<goals>
 							<goal>deploy</goal>
 						</goals>
-						<!-- <configuration>
+						 <configuration>
            				     <application>${app.location}</application>
-           				 </configuration> -->
+           				 </configuration>
 					</execution>
 				</executions>
 			</plugin>
